@@ -1,6 +1,6 @@
 export default {
   fonts: {
-    main: "Wokr Sans, sans-serif",
+    main: "Work Sans, sans-serif",
     code: "Roboto Mono, monospace",
   },
   colors: {
